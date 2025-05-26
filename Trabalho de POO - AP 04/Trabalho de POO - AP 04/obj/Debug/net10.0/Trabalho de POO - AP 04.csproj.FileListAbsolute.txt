@@ -1,0 +1,14 @@
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\bin\Debug\net10.0\Trabalho de POO - AP 04.exe
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\bin\Debug\net10.0\Trabalho de POO - AP 04.deps.json
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\bin\Debug\net10.0\Trabalho de POO - AP 04.runtimeconfig.json
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\bin\Debug\net10.0\Trabalho de POO - AP 04.dll
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\bin\Debug\net10.0\Trabalho de POO - AP 04.pdb
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.AssemblyInfoInputs.cache
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.AssemblyInfo.cs
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.csproj.CoreCompileInputs.cache
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.dll
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\refint\Trabalho de POO - AP 04.dll
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.pdb
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\Trabalho de POO - AP 04.genruntimeconfig.cache
+C:\Users\ccmd\Desktop\Trabalho de POO - AP 04\obj\Debug\net10.0\ref\Trabalho de POO - AP 04.dll
