@@ -33,7 +33,15 @@ Este é um aplicativo em C# para gerenciar compromissos de usuários. Ele permit
 
 ## Estrutura do Projeto
 
-CompromissosApp/ ├── Modelos/ │ ├── Usuario.cs │ ├── Compromisso.cs │ ├── Participante.cs │ ├── Anotacao.cs │ ├── Local.cs ├── Persistencia/ │ ├── RepositorioCompromissos.cs ├── Program.cs ├── README.md ├── CompromissosApp.csproj
+CompromissosApp
+/Modelos
+/Usuario.cs
+/Compromisso.cs
+/Participante.cs
+/Anotacao.cs
+/Local.cs
+/Persistencia/RepositorioCompromisso.cs
+Program.cs
 
 
 *   **Modelos:** Contém as classes que representam os dados do aplicativo (Usuario, Compromisso, Participante, Anotacao, Local).
